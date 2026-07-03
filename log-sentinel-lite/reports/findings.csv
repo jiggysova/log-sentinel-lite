@@ -1,0 +1,4 @@
+ip_address,failed_attempts,risk_level,alert
+192.168.1.50,3,Medium,Suspicious repeated failed logins
+10.0.0.8,2,Low,Failed login activity observed
+172.16.0.25,4,High,Possible brute-force attack
